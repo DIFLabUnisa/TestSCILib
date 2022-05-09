@@ -5,74 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4fed54-38b2-4817-95e7-35ae92680fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/testing/_DSC9781.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/testing/_DSC9782.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/testing/_DSC9783.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/testing/_DSC9784.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/testing/_DSC9787.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9771.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9772.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9773.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9774.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9775.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9776.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9777.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9778.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9779.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D850/training/_DSC9780.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/testing/i_51627.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/testing/i_51628.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/testing/i_51629.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/testing/i_51630.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/testing/i_51631.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51616.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51617.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51618.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51619.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51620.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51622.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51623.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51624.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51625.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_1/training/i_51626.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/testing/i_51884.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/testing/i_51885.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/testing/i_51886.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/testing/i_51887.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/testing/i_51888.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51874.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51875.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51876.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51877.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51878.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51879.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51880.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51881.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51882.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/D90_2/training/i_51883.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/testing/20211007-_DSC1311.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/testing/20211007-_DSC1312.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/testing/20211007-_DSC1313.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/testing/20211007-_DSC1314.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/testing/20211007-_DSC1315.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1301.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1302.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1303.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1304.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1305.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1306.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1307.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1308.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1309.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Z50/training/20211007-_DSC1310.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unisa/di/dif/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,11 +86,23 @@
       <option name="presentableId" value="Default" />
       <updated>1652091775121</updated>
       <workItem from="1652091776243" duration="8159000" />
-      <workItem from="1652104578717" duration="968000" />
+      <workItem from="1652104578717" duration="1404000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1652105597540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105597540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
