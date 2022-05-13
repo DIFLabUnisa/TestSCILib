@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4fed54-38b2-4817-95e7-35ae92680fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assembly/fullsrc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -95,6 +94,7 @@
       <workItem from="1652104578717" duration="1474000" />
       <workItem from="1652109294669" duration="50000" />
       <workItem from="1652118625745" duration="1383000" />
+      <workItem from="1652454381150" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1652105597540</created>
